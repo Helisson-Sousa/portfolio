@@ -24,6 +24,14 @@
   color: var(--accent-color);
 }
 
+.classLib {
+  color: #a4c7eb;
+}
+
+.classModule {
+  color: #d0a9dd;
+}
+
 @media screen and (max-width: 600px) {
   .code {
     font-size: 0.85rem;
