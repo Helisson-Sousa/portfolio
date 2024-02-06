@@ -85,3 +85,27 @@
 .css-modules:hover {
   background: rgba(21, 114, 182, 0.25);
 }
+
+.graphQL {
+  border: 0.1rem solid rgb(229, 53, 171);
+}
+.graphQL:hover {
+  background: rgba(229, 53, 171, 0.25);
+}
+
+.gluestack-ui, .rest {
+  border: 2px solid rgb(0, 112, 243);
+}
+.gluestack-ui:hover, .rest:hover {
+  background: rgba(0, 112, 243, 0.25);
+}
+
+.native {
+  border: 0.1rem solid rgb(97, 218, 251);
+}
+.native:hover {
+  background: rgba(97, 218, 251, 0.25);
+}
+
+
+

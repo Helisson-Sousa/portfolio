@@ -1,37 +1,86 @@
 [
   {
     "id": 1,
-    "name": "Driwwwle",
-    "image": "https://imgur.com/kbGs6zH.png",
-    "description": "A platform for web developers to showcase their projects",
-    "tags": ["next", "node", "mongodb", "tailwind", "react-query"],
-    "source_code": "https://github.com/itsnitinr/driwwwle-v2",
-    "demo": "https://driwwwle.com/"
+    "name": "Simtegra",
+    "image": "/simcredito.png",
+    "description": "Uma plataforma para atendimento de callcenter e ferramentas de gestão, desenvolvido na Supliu Tecnologia.",
+    "tags": [
+      "react",
+      "material-ui",
+      "graphQL"
+    ],
+    "demo": "https://simtegra.com.br/login"
   },
   {
     "id": 2,
-    "name": "PCB Cupid",
-    "image": "https://imgur.com/tAZotn3.png",
-    "description": "E-commerce website for a PCB manufacturing company",
-    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
-    "demo": "https://www.pcbcupid.com/"
+    "name": "V&C",
+    "image": "/vec.jpeg",
+    "description": "Plataforma com ferramentas para análise de dados e gestão, desenvolvido na Supliu Tecnologia.",
+    "tags": [
+      "next",
+      "material-ui",
+      "graphQL"
+    ],
+    "demo": "https://bi.vecsistemas.com.br/"
   },
   {
     "id": 3,
-    "name": "HealthyWays",
-    "image": "https://imgur.com/8FFqaX8.png",
-    "description": "A food ordering platform for healthy and home-cooked meals",
-    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
-    "source_code": "https://github.com/itsnitinr/healthyways",
-    "demo": "https://healthyways.herokuapp.com/"
+    "name": "Checar BPM",
+    "image": "/checar.png",
+    "description": "Plataforma de gestão de processos, notação BPM, desenvolvido na Supliu Tecnologia.",
+    "tags": [
+      "react",
+      "material-ui",
+      "graphQL"
+    ],
+    "demo": "https://lagoasanta.checar.site/login"
   },
   {
     "id": 4,
-    "name": "VSCode Portfolio",
-    "image": "https://imgur.com/mKkz0iz.png",
-    "description": "A themeable and developer-centric portfolio based on the VSCode",
-    "tags": ["next", "css-modules"],
-    "source_code": "https://github.com/itsnitinr/vscode-portfolio",
-    "demo": "http://vscode-portfolio.vercel.app/"
+    "name": "CatálogoApp",
+    "image": "/catalogoApp.png",
+    "description": "Plataforma de criação de catálogo ou loja virtual com milhares de usuários, desenvolvido na Supliu tecnologia.",
+    "tags": [
+      "next",
+      "react native",
+      "gluestack-ui",
+      "graphQL",
+      "rest"
+    ],
+    "demo": "https://catalogoapp.mobi/"
+  },
+  {
+    "id": 5,
+    "name": "Coopervass",
+    "image": "/coopervass.png",
+    "description": "APP para vendas da cooperativa Coopervass, desenvolvido na Supliu Tecnologia.",
+    "tags": [
+      "react native",
+      "native base",
+      "graphQL"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Luziana Lanna",
+    "image": "/luziana.png",
+    "description": "Plataforma de escola de idiomas, desenvolvido na Supliu Tecnologia.",
+    "tags": [
+      "react native",
+      "native base",
+      "rest"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "ImóveisApp",
+    "image": "/imoveisApp.png",
+    "description": "Sistema de gestão, venda e aluguel de imóveis, desenvolvido na Supliu Tecnologia.",
+    "tags": [
+      "react native",
+      "gluestack-ui",
+      "graphQL"
+    ],
+    "demo": "https://imoveisapp.mobi/"
   }
 ]
